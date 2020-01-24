@@ -9,4 +9,6 @@ What makes me proud as a Developer !
 
 4) My article is part of a week-end reading list : https://graciano.dev/2020/01/16/weekend-reading-list-2/
 
+5) I shared my opinion about why keep me coming back to  community : https://medium.com/@growingcommunity/why-do-they-keep-coming-back-real-world-community-members-speak-on-why-the-keep-coming-back-c99ba4f66d1e
+
 
