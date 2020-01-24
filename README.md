@@ -7,4 +7,6 @@ What makes me proud as a Developer !
 
 3) I am the most active GitHub user in Cameroon : https://commits.top/cameroon.html
 
+4) My article is part of a week-end reading list : https://graciano.dev/2020/01/16/weekend-reading-list-2/
+
 
