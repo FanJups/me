@@ -11,4 +11,16 @@ What makes me proud as a Developer !
 
 5) I shared my opinion about why keep me coming back to  community : https://medium.com/@growingcommunity/why-do-they-keep-coming-back-real-world-community-members-speak-on-why-the-keep-coming-back-c99ba4f66d1e
 
+6) I've started learning AI with python & Java
+
+    https://github.com/FanJups/learningNeuralNetworkJava
+    
+    https://github.com/FanJups/Neural-Network-Programming-with-Java-SecondEdition
+    
+    https://github.com/FanJups/learningPython
+    
+    https://github.com/FanJups/Deep-learning-with-Python
+    
+    https://github.com/FanJups/mooc_python
+
 
