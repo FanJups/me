@@ -29,3 +29,5 @@ What makes me proud as a Developer !
 
 7) I'm a fanatic learner
 
+8) I never give up
+
