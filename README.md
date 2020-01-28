@@ -27,4 +27,5 @@ What makes me proud as a Developer !
     
     https://github.com/FanJups/mooc_python
 
+7) I'm a fanatic learner
 
