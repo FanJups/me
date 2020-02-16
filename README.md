@@ -31,3 +31,6 @@ What makes me proud as a Developer !
 
 8) I never give up
 
+9) 
+
+https://medium.com/@growingcommunity/community-members-speak-biggest-online-community-annoyance-5b47b16363bc
